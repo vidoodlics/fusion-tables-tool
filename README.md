@@ -1,1 +1,1 @@
-# fusion-tables-tool
+# SocialSkipInitializer
